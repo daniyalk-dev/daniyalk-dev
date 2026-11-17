@@ -4,6 +4,12 @@ Senior full-stack engineer in Lahore, Pakistan (UTC+5). I fix and ship MVPs that
 
 **Get a free build audit:** [daniyalk.com](https://daniyalk.com) · [LinkedIn](https://www.linkedin.com/in/daniyalk-dev) · hello@daniyalk.com
 
+<a href="https://youtu.be/PYnsktslrhs"><img src="intro-video.webp" width="480" alt="Watch my 75-second intro on YouTube"></a>
+
+▶ [Watch my 75-second intro](https://youtu.be/PYnsktslrhs)
+
+**Experience:** 5+ years shipping production software, including 3+ years building products remotely for Etra Ventures, a UK venture studio. Previously Khaleef Technologies and ArhamSoft in Lahore.
+
 ## What I do
 
 - **Rescue sprints** for stalled builds made with Cursor, Lovable, v0, Bolt or a junior team: audit the code, fix the blocking bugs, harden auth and row-level security, and deploy properly with CI
